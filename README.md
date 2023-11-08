@@ -41,7 +41,7 @@ git clone https://github.com/victormeloasm/WikipediaDataAnalysis.git
 2. Navigate to the project directory:
 
 ```bash
-cd WikipediaDataAnalysi
+cd WikipediaDataAnalysis
 ```
 
 3. Install the required Python libraries:
