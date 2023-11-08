@@ -2,7 +2,7 @@
 
 This project is a Python script that extracts text from a Wikipedia page, performs text analysis, and generates a graphical representation of the 15 most common words in the text. The analysis includes tokenization, removal of stopwords, word counting, and the creation of a bar chart with word frequencies.
 
-![Data Analysis](Data Analysis.jpg)
+![Data Analysis](DataAnalysis.jpg)
 
 ## Table of Contents
 
